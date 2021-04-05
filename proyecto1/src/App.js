@@ -18,14 +18,10 @@ function App() {
   return (
     <div className="App">
      <Section> 
-      <p>Hola soy parrafo 
-        </p> 
-        <p>Hola soy parrafo 
-        </p> 
-        <p>Hola soy parrafo 
-        </p> 
-        <p>Hola soy parrafo 
-        </p> 
+        <p>Hola soy parrafo </p> 
+        <p>Hola soy parrafo </p> 
+        <p>Hola soy parrafo </p> 
+        <p>Hola soy parrafo</p> 
      </Section>
           {/* {employees.map((employee) => {
             return <Profile name={employee.name} stack={employee.stack} linkedin={employee.linkedin}/>;
