@@ -1,4 +1,4 @@
-.section {
+/* .section {
   text-align: center;
 }
 
@@ -59,4 +59,10 @@
   .row .col-2-of-4 {
     width: calc(2 * ((100% - 3 * 6rem) / 4) + 6rem); }
   .row .col-3-of-4 {
-    width: calc(3 * ((100% - 3 * 6rem) / 4) +  (2 * 6rem)); }
+    width: calc(3 * ((100% - 3 * 6rem) / 4) +  (2 * 6rem)); } */
+.section{
+  width:80%; 
+  margin:auto;
+  background:red;
+  height:50vh;
+}
